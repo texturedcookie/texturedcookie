@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @texturedcookie
+- 👋 Hi, I’m Lenaoria Guerin
 - 👀 I’m interested in ...Game mechanics and level design.
 - 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...GAMES in Unity!
