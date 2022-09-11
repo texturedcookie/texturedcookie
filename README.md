@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lenaoria Guerin
+- 👋 Hi, I’m Lenaoria 
 - 👀 I’m interested in ...Game mechanics and level design.
 - 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...GAMES in Unity!
