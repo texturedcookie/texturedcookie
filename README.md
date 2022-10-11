@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lenaoria 
-- 👀 I’m interested in ...Game mechanics and level design.
-- 🌱 I’m currently learning ...C#
-- 💞️ I’m looking to collaborate on ...GAMES in Unity!
+- 👀 I’m interested in ...Game mechanics, development and level design.
+- 🌱 I’m currently learning ...C# & Java
+- 💞️ I’m looking to collaborate on ...anything games related :)
 - 📫 How to reach me ...lenaoriag@gmail.com
 
 <!---
